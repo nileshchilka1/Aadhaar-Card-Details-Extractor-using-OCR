@@ -28,7 +28,7 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
     $ cd Aadhaar-Card-Details-Extractor-using-OCR
     ```
 
-3.
+3. Install requirements.txt
          
    ```markdown
    pip install -r requirements.txt
@@ -43,7 +43,8 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
          alt = "HTML Tutorial" height = "250" width = "300" /> 
 
 ## To Do
-Storing the data into Database
+1.Storing the data into Database
+2.Extracting Address
          
 ## Credits 
 https://github.com/JaidedAI/EasyOCR
