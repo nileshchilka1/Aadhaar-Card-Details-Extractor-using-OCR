@@ -38,9 +38,9 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 ## Screenshots
 
 <img src = "https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/blob/master/Screenshot%20(1).png"
-         alt = "HTML Tutorial" height = "250" width = "300" />
+         alt = "HTML" height = "250" width = "300" />
 <img src = "https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/blob/master/Screenshot%20(2).png"
-         alt = "HTML Tutorial" height = "250" width = "300" /> 
+         alt = "HTML" height = "250" width = "300" /> 
 
 ## To Do
 1.Storing the data into Database
