@@ -31,7 +31,7 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 3. Install requirements.txt
          
    ```markdown
-   pip install -r requirements.txt
+   $ pip install -r requirements.txt
    ```
    
 
