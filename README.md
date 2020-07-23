@@ -16,22 +16,18 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 
 1. Download the repository
 
-    ```markdown
-    $ git clone https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR.git
-    ```
-
-
+Download Link: https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/archive/master.zip
 
 2. Locate repository
 
     ```markdown
-    $ cd Aadhaar-Card-Details-Extractor-using-OCR
+     cd Aadhaar-Card-Details-Extractor-using-OCR
     ```
 
 3. Install requirements.txt
          
    ```markdown
-   $ pip install -r requirements.txt
+    pip install -r requirements.txt
    ```
    
 
