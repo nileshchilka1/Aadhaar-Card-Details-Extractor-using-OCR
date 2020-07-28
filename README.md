@@ -12,9 +12,9 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 
 1. Download necessary files
 
-Download Repositary Link: https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/archive/master.zip
+    Download Repositary [Link](https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/archive/master.zip)
 
-Download WampServer Link: https://excellmedia.dl.sourceforge.net/project/wampserver/WampServer%203/WampServer%203.0.0/wampserver3.2.0_x64.exe
+    Download WampServer [Link](https://excellmedia.dl.sourceforge.net/project/wampserver/WampServer%203/WampServer%203.0.0/wampserver3.2.0_x64.exe)
 
 2. Locate repository
 
