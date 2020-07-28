@@ -25,14 +25,13 @@ Download Link: https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-u
    ```markdown
     pip install -r requirements.txt
    ```
-## Screenshots
+## Screenshot
    
    <img src = "https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/blob/master/Screenshot.PNG"
          alt = "HTML" height = "700" width = "1100" />
 
 ## To Do
-1.Storing the data into Database
-2.Extracting Address
+Extracting Address
          
 ## Credits 
 https://github.com/JaidedAI/EasyOCR
