@@ -25,6 +25,10 @@ Download Link: https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-u
    ```markdown
     pip install -r requirements.txt
    ```
+## Screenshots
+   
+   <img src = "https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/blob/master/Screenshot.PNG"
+         alt = "HTML" height = "700" width = "1100" />
 
 ## To Do
 1.Storing the data into Database
