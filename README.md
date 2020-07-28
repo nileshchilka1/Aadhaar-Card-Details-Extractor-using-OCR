@@ -10,9 +10,11 @@ One day I got this idea about extracting information from Aadhaar Card using OCR
 ## Installation
 The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
-1. Download the repository
+1. Download necessary files
 
-Download Link: https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/archive/master.zip
+Download Repositary Link: https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/archive/master.zip
+
+Download WampServer Link: https://excellmedia.dl.sourceforge.net/project/wampserver/WampServer%203/WampServer%203.0.0/wampserver3.2.0_x64.exe
 
 2. Locate repository
 
