@@ -32,7 +32,7 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
    ```
 ## Screenshot
    
-   <img src = "https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/blob/master/screenshot%201.png"
+   <img src = "https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/blob/master/screenshot%202.png"
          alt = "HTML" height = "700" width = "1100" />
    
    <img src = "https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/blob/master/Screenshot.PNG"
