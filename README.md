@@ -30,6 +30,11 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
    ```markdown
     pip install -r requirements.txt
    ```
+4. Run run.py
+
+   ```markdown
+    python run.py
+   ```
 ## Screenshot
    
    <img src = "https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR/blob/master/screenshot%202.png"
