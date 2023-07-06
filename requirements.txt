@@ -6,7 +6,7 @@ matplotlib==3.2.2
 mysql-connector-python==8.0.21
 numpy==1.19.0
 opencv-python==4.3.0.36
-scipy==1.4.1
+scipy==1.10.0
 torch==1.5.1
 torchvision==0.6.1
 tornado==6.0.4
